@@ -1,0 +1,2 @@
+- Implemented a machine learning project to predict phishing sites using scikit-learn's Random Forest Classifier.
+- Trained the model to classify websites as phishing or legitimate, achieving high accuracy and precision.
